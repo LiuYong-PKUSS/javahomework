@@ -1,7 +1,10 @@
-#Java Homework
-##仓库用途
-    这个仓库用于提交JAVA程序设计课程的homework
-##作业提交方式
+Java Homework
+==================================
+# 仓库用途
+    这个仓库用于提交JAVA程序设计课程的homework。
+    
+# 作业提交方式
+
 • 安装&练习git基本命令
 • 使用北大邮箱注册github账号，账号名最好是自己的姓名拼音
 • 新建javahomework仓库
